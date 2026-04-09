@@ -62,3 +62,5 @@ composable(
 3.  **Rotas:** A string da rota na navegação deve coincidir exatamente com a definida no `NavHost`. Cuidado com barras `/` extras antes de parâmetros opcionais.
 
 ---
+<img width="466" height="934" alt="Captura de ecrã 2026-04-09 122334" src="https://github.com/user-attachments/assets/8524a48c-886e-4de6-95e4-b824eaa87b03" />
+<img width="466" height="924" alt="Captura de ecrã 2026-04-09 122414" src="https://github.com/user-attachments/assets/dafcbe30-1560-45f9-af20-802b6acff29c" />
